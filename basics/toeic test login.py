@@ -37,8 +37,5 @@ sleep(10)
 
 driver.find_element_by_xpath("//div[@id='root']//div//div[1]//div[3]//div[1]//a[1]//button[1]//span[1]//span[1]").click()
 driver.find_element_by_xpath("//span[text()='Begin the test']").click()
-
-
-
 sleep(5)
 
